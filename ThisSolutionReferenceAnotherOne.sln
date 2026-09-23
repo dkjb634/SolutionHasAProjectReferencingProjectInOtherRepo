@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{2BC59F70-E53B-463D-BB08-0CC7F3C16AD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeNugetForWhichSourcesAreRequired", "..\ProjectReference\SomeNugetForWhichSourcesAreRequired\SomeNugetForWhichSourcesAreRequired.csproj", "{77E5B3B8-D6C0-42C3-8737-EC950BD5A193}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,13 @@ Global
 		{2BC59F70-E53B-463D-BB08-0CC7F3C16AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BC59F70-E53B-463D-BB08-0CC7F3C16AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BC59F70-E53B-463D-BB08-0CC7F3C16AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50890D4-7888-48A6-9C93-1A1206E69208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50890D4-7888-48A6-9C93-1A1206E69208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50890D4-7888-48A6-9C93-1A1206E69208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50890D4-7888-48A6-9C93-1A1206E69208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E5B3B8-D6C0-42C3-8737-EC950BD5A193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E5B3B8-D6C0-42C3-8737-EC950BD5A193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E5B3B8-D6C0-42C3-8737-EC950BD5A193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E5B3B8-D6C0-42C3-8737-EC950BD5A193}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
